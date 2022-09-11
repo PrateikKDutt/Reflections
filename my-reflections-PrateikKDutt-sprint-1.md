@@ -1,0 +1,37 @@
+The command line to my understanding is the way to nagative the computer using words instead of file explore on PC. Like shopping; the usually way you go shopping is to go to 
+each aisle, find what you want and take it, with command line instead of walking along you are in a chart that take you the specific aisle you want. I did not stick to the timebox 
+guideline as some of the promts did not work for me, I'm not sure how i can fix this for the fututre. The commands I used the most were Ls for liest and pwd, moving with cd was tricker than 
+I thought and mkdir does not work for me. However I did learn that cp copies files which is useful and mv for move file should be useful in the future. The Touch command is a little more 
+complex an i thought, in order to create something i need to state what it is. To expermeient with some commands I used Clear and ditto to see if i could copy a whole folder. I couldn't but did
+become for familiar and comfitable with using promts.
+I have learned that if i want to ceate and see my local files i need to open termial in desktop though the right click command
+
+Git
+From my understanding the difference between Git and Github is that Git is a the local Version control( installed on on your own computer) while git hub is 
+the cloud (server) version control.
+I think of git and git hub like two people writting a story in a magic book that will not let them write over each other. For git I think of the them working on the same page
+but the magic paper will not let them wirter over parts where the other has written. Git hub is like a whole chapter for pages that when one has finished and the other wants to use it 
+they can pull it striaght from the book onto their on pages.
+I would have a vague idea of what they would be but would have a harder time explaining them.
+Git workflow is method of how to work in Git in the most effective way possible.
+I was blocked serval time as the commands I put in did not work or I could come with an error like "Zash command not found" this slowed me down considerably.
+Git Commit marking all the work you have don so far so you cna go back to it if you decide you need to go back to an earleir version. Like marking a page in a book:
+if you dont understand what is happening in the later chapters you can go back to the pervious chapter to see what happened.
+
+The Main is the prime folder/repositories you will be working on. A branch is a sparate version of the folder you work on that will not effective the Main. You create a branch so if any of the multiple 
+changes you make to it will not damage the main body of work. Also more than one person can work on the same project at the same time. 
+These concepts are easy to understand but harder to explain.
+
+Ko Wai Koe
+This challenge was mush harder than expected, the sub-system of lunix in my computer did not preform certin commands and I was hit by several errors. The most fustrating one being an -end whenever i tried to 
+to clone or created a main. After finding the code need to fix this I still found several issue I need to work around before I could make progress.
+
+GitHub Fork & Clone
+You can fork when you want to work on a repository without effect that main body of code/line without effecting. You are making a copy of that main in side-server. An example 
+of doing this is when a single game-developers want to work on side-quests while the rest of the team works on the main main-quest without effecting the code.
+
+Setup Repo & Create Blog
+This was very frustrating.
+I had assuming that making a blog would have be while not easy, a bit more simple than this. creating a index.html was much harder in termail than simply typing index.html into 
+it and I ran into the same issue with commit and push as I did before with them not working like they should withtermail not recognizing the commands. Alternet command did not work
+either with me having to search for fix on google and which again took longer than I thought it would.
